@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    background-color: darkcyan;
+    width: 100%;
+    height: 15%;
+}
+
+div header{
+    border: none;
+    background-image: url(../img/kirito-sword-art-online_2560x1920_xtrafondos.com.jpg);
+    text-align: center;
+    margin: 15px;
+    width: 97%;
+    padding: 20px;
+}
